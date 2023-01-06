@@ -1,0 +1,46 @@
+.main-page{
+	background-color: skyblue;
+	text-align: center;
+	color: white;
+	height: 35vh;
+	padding-top: 30px;
+}
+.main-page-2{
+	color: black;
+	text-align: center;
+	padding-top: 55px;
+}
+.res-cointainer{
+	display: flex;
+	padding-bottom: 30px;
+}
+.left-class{
+	margin-left: 70%;
+}
+.img-1{
+	height: 180px;
+
+}
+
+.res-incointainer{
+    margin-left: 20%;
+    margin-right: 10px;
+}
+.res-incointainer-2{
+	margin-right: 10px;
+}
+.res-incointainer-3{
+	margin-right: 20%;
+}
+.footerpage-1{
+	text-align: left: ;
+}
+.footerpage-2{
+	text-align: right ;
+	color: blue;
+	margin-right: 90%;
+}
+
+#title-class{
+	padding-left: 70px;
+}
